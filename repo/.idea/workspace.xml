@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="744c7633-72dc-4d91-bdc1-682ce8153c4c" name="Changes" comment="第二次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/Java/jdk/jdk-17.0.6/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://D:/Maven/apache-maven-3.9.0/repo/org/springframework/spring-web/5.3.27/spring-web-5.3.27-sources.jar!/org/springframework/web/bind/annotation/RequestBody.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/repo-main/src/main/java/com/by/controller/employee/EmployeesController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/repo-main/src/main/java/com/by/mapper/employee/EmployeesMapper.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\apache-maven-3.9.0\repo" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.9.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.9.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectId" id="2Rgk84xgCnmdWKaxzNk7hjV7eUR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/test/erp_manager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "9a72747f17bb7ec53ca792d19427074b",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\test\repo\erp-main\src\main\resources\mybatis" />
+      <recent name="E:\test\repo\erp-main\src\main\java\com\by\controller" />
+      <recent name="E:\JAVA\springboot项目\erp-api\erp-main\src\main\java\com\by\common\config" />
+      <recent name="E:\JAVA\springboot项目\erp-api\erp-main\src\main\resources\mybatis\good" />
+      <recent name="E:\JAVA\springboot项目\erp-api\erp-main\src\main\resources\mybatis\sys" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.by.common.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RepoMainApplication">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.by.Test" />
+      <module name="repo-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepoMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="repo-main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.RepoMainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Spring Boot.RepoMainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RepoMainApplication" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744c7633-72dc-4d91-bdc1-682ce8153c4c" name="Changes" comment="" />
+      <created>1687678949445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687678949445</updated>
+      <workItem from="1687678950740" duration="7800000" />
+      <workItem from="1687740454710" duration="1319000" />
+      <workItem from="1687767335231" duration="7770000" />
+      <workItem from="1687826435116" duration="2366000" />
+      <workItem from="1687844441172" duration="11533000" />
+      <workItem from="1687912670524" duration="15858000" />
+      <workItem from="1687964764943" duration="2005000" />
+      <workItem from="1687997149527" duration="12567000" />
+      <workItem from="1688084671835" duration="20953000" />
+      <workItem from="1688176421620" duration="9501000" />
+      <workItem from="1688194945214" duration="8482000" />
+      <workItem from="1688262336784" duration="13316000" />
+      <workItem from="1688344209394" duration="23537000" />
+      <workItem from="1688429254224" duration="17956000" />
+      <workItem from="1688515738990" duration="2976000" />
+      <workItem from="1688560367657" duration="3755000" />
+      <workItem from="1688611678649" duration="12725000" />
+      <workItem from="1688727876268" duration="7982000" />
+      <workItem from="1688786169099" duration="2859000" />
+      <workItem from="1688882618852" duration="671000" />
+      <workItem from="1688901994151" duration="248000" />
+      <workItem from="1688957253310" duration="24238000" />
+      <workItem from="1689034484397" duration="15574000" />
+      <workItem from="1689121731864" duration="15032000" />
+      <workItem from="1689207144407" duration="2241000" />
+      <workItem from="1689229275790" duration="26319000" />
+      <workItem from="1689294260785" duration="20405000" />
+      <workItem from="1689380734471" duration="8648000" />
+      <workItem from="1689405850873" duration="10617000" />
+      <workItem from="1689553678681" duration="3395000" />
+      <workItem from="1689600027205" duration="3236000" />
+      <workItem from="1689684985379" duration="967000" />
+      <workItem from="1689688932539" duration="758000" />
+      <workItem from="1689726128953" duration="1359000" />
+      <workItem from="1689899988780" duration="1030000" />
+      <workItem from="1690170015326" duration="152000" />
+      <workItem from="1690530674757" duration="601000" />
+      <workItem from="1690534768899" duration="14870000" />
+      <workItem from="1690590774702" duration="15093000" />
+      <workItem from="1690804792297" duration="50000" />
+      <workItem from="1691568123318" duration="2827000" />
+      <workItem from="1691632976337" duration="742000" />
+      <workItem from="1691636841225" duration="13886000" />
+      <workItem from="1691716647786" duration="2887000" />
+      <workItem from="1691723112770" duration="11113000" />
+      <workItem from="1691802248368" duration="7079000" />
+      <workItem from="1691976656914" duration="705000" />
+      <workItem from="1692017382305" duration="341000" />
+      <workItem from="1692023379492" duration="648000" />
+      <workItem from="1692060305600" duration="2751000" />
+      <workItem from="1692091591188" duration="959000" />
+      <workItem from="1692145395361" duration="46000" />
+      <workItem from="1692690121213" duration="940000" />
+      <workItem from="1698381331310" duration="1070000" />
+      <workItem from="1699238873671" duration="3133000" />
+      <workItem from="1699668793665" duration="2454000" />
+      <workItem from="1699671567469" duration="1555000" />
+      <workItem from="1700029727165" duration="1254000" />
+      <workItem from="1702344543957" duration="37000" />
+      <workItem from="1702624129508" duration="1484000" />
+      <workItem from="1702650482010" duration="6061000" />
+      <workItem from="1702690284576" duration="34847000" />
+      <workItem from="1702771828970" duration="1102000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1702776689277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702776689277</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1702776980455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702776980455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -15,6 +15,7 @@ mybatis:
 logging:
   level:
     com.by.mapper: debug
+
 server:
   servlet:
     register-default-servlet: true #开启默认servlet 用于服务静态资源

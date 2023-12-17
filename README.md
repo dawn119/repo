@@ -7,3 +7,5 @@
 登录密码：123
 
 数据库文件位置：repo/sql-file
+
+excel导出位置是当前放置项目的文件夹下：employeeExcel。

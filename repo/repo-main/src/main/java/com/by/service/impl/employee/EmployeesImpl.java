@@ -31,6 +31,12 @@ public class EmployeesImpl extends BaseServiceImpl<Employees, EmployeesMapper> i
     public int exportEmployee(List<EmployeeExcelDto> employeeExcelDtos) {
         List<EmployeeExcelDto> dataList = new ArrayList<>();
         dataList = employeeExcelDtos;
+        if (!dataList.isEmpty()) {
+            for (EmployeeExcelDto dto : dataList) {
+                int sex = dto.getSex();
+                dto.setSexStr(sex == 0 ? "男" : "女");
+            }
+        }
         String currentDirectory = System.getProperty("user.dir");
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyMMdd_HHmmss");
         String formatDate = simpleDateFormat.format(new Date());
@@ -50,7 +56,7 @@ public class EmployeesImpl extends BaseServiceImpl<Employees, EmployeesMapper> i
         } else {
             System.out.println("目录已存在：" + directoryPath);
         }
-        String fileName = directoryPath + "/员工信息表_"+formatDate+".xlsx";
+        String fileName = directoryPath + "/员工信息表_" + formatDate + ".xlsx";
         ExcelWriterSheetBuilder excelWriterSheetBuilder = null;
         try {
             excelWriterSheetBuilder = EasyExcel.write(fileName, EmployeeExcelDto.class).sheet("Sheet1");
